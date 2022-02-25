@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The solemn protestation of Miles Prance in reference to the murder of Sir Edmundbury Godfrey, and as concerning Mr. Roger L'Estrange</title>
+            <author>Prance, Miles, fl. 1678-1689.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55632</idno>
+            <idno type="STC">Wing P3176</idno>
+            <idno type="STC">ESTC R8941</idno>
+            <idno type="EEBO-CITATION">13739421</idno>
+            <idno type="OCLC">ocm 13739421</idno>
+            <idno type="VID">101654</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55632)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101654)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 847:36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The solemn protestation of Miles Prance in reference to the murder of Sir Edmundbury Godfrey, and as concerning Mr. Roger L'Estrange</title>
+                  <author>Prance, Miles, fl. 1678-1689.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Janeway,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prance, Miles, fl. 1678-1689.</term>
+               <term>Godfrey, Edmund Berry, --  Sir, 1621-1678.</term>
+               <term>L'Estrange, Roger, --  Sir, 1616-1704.</term>
+               <term>Popish Plot, 1678.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:101654:1" rendition="simple:additions"/>
+            <head>THE SOLEMN PROTESTATION OF Miles Prance, In Reference to the MURDER OF <hi>Sir Edmundbury Godfrey:</hi> And as concerning Mr. <hi>Roger L'Eſtrange.</hi>
+            </head>
+            <p>WHereas ſome <hi>Bold</hi> and <hi>Ill</hi> Men have ſeveral times by <hi>Various</hi> but Different Suggeſtions, and particularly more <hi>Openly</hi> of late, pretended they are able to diſprove the <hi>Account</hi> I gave from my Perſonal Knowledge of the Murder of Sir <hi>Edmundbury Godfrey,</hi> where<g ref="char:EOLhyphen"/>in with <hi>unſpeakable Grief</hi> (though yet not without a firm belief of <hi>For<g ref="char:EOLhyphen"/>giveneſs</hi> from Almighty GOD upon unfeigned Repentance, as well as the Grant of His moſt Gracious Majeſty, my Earthly Soveraign's, <hi>Par<g ref="char:EOLhyphen"/>don</hi>) I acknowledge my Self moſt wickedly Drawn in and Concern'd. And whereas likewiſe being juſtly Called thereunto, I did on the 25th of <hi>October,</hi> 1680. in ſervice to Truth, the Proteſtant Religion, my King, and Countrey, moſt truly depoſe, <hi>That about Three Years be<g ref="char:EOLhyphen"/>fore that Time I ſaw Mr.</hi> Roger L'Eſtrange <hi>three or four times Kneeling at Maſs in the Queens Chappel.</hi>
+            </p>
+            <p>And whereas ſeveral Prints intituled <hi>Obſervators,</hi> and other <hi>Pam<g ref="char:EOLhyphen"/>phlets,</hi> whereof Mr. <hi>L'Eſtrange</hi> is <hi>generally</hi> Reputed the <hi>Author,</hi> have not only denied that the ſaid <hi>L'Eſtrange</hi> was <hi>ever<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Maſs,</hi> ſince his Majeſties happy Reſtauration; but alſo have endeavoured to fix <hi>Scandals</hi> upon me, as if I had <hi>Defrauded</hi> the Queens moſt <hi>Excellent Majeſty,</hi> by taking out <hi>Silver Screws</hi> out of an <hi>Anti-Pendium</hi> to the <hi>Altar,</hi> and putting in <hi>Braſs ones</hi> in their ſtead, or Reckoning for <hi>Silver ones,</hi> when in Truth they were but <hi>Braſs;</hi> as alſo inſinuating as if I had <hi>made away with my Servant,</hi> and had pretended that a <hi>Tankard</hi> intruſted with me was ſto<g ref="char:EOLhyphen"/>len away, when it was not; ſince all theſe Suggeſtions are not only moſt notoriouſly <hi>falſe,</hi> and prejudicial to my Reputation, but alſo ten<g ref="char:EOLhyphen"/>ding
+<pb facs="tcp:101654:2" rendition="simple:additions"/>to Abuſe and <hi>Diſcredit</hi> that Teſtimony which <hi>Honeſtly</hi> and <hi>Conſci<g ref="char:EOLhyphen"/>entiouſly</hi> I have given touching the <hi>Damnable Popiſh Plot:</hi>
+            </p>
+            <p>I the ſaid <hi>Miles Prance</hi> do hereby in the preſence of the <hi>All-ſeeing and Heart-ſearching God,</hi> and of <hi>all Holy Angels and Good Men,</hi> ſolemnly and ſincerely <hi>Avow and Declare,</hi> That whatever I formerly Depoſed upon Oath at the <hi>Tryals</hi> of Mr. <hi>Green,</hi> Mr. <hi>Berry,</hi> and Mr. <hi>Hill,</hi> or at any o<g ref="char:EOLhyphen"/>ther <hi>Tryal,</hi> and what in my Printed <hi>Narrative</hi> I did ſet forth touching the manner and Circumſtances (as far as the ſame <hi>fell within my Know<g ref="char:EOLhyphen"/>ledge</hi>) of the ſaid Sir <hi>Edmondbury Godfrey</hi>'s <hi>Murder;</hi> As alſo my before-Recited <hi>Affidavit</hi> of ſeeing Mr. <hi>Roger L'Eſtrange</hi> at <hi>Maſs,</hi> is and are moſt <hi>Punctually</hi> and <hi>Religiouſly True.</hi>
+            </p>
+            <p>And I further do Proteſt and Declare in manner aforeſaid, that I did not directly or indirectly <hi>defraud</hi> Her Moſt Excellent Majeſty in the matter of the <hi>Screws</hi> or <hi>Antipendium,</hi> but that the ſaid <hi>Screws</hi> were by conſent and order of thoſe that imployed me made of <hi>Braſs,</hi> as alſo that my ſaid Servant was upon Tryal with ſeveral Maſters after he parted with me, and afterwards by his own and his friends con<g ref="char:EOLhyphen"/>ſent, (without any Concernment of mine) ſent into ſome of the Weſtern Plantations, where I believe he is ſtill Living; And that there was a Tankard ſent me to mend, ſtoln out of my Shop in <hi>December</hi> 1678. For which I returned to the Owner a new Tankard, to the full Value.</p>
+            <p>And as to <hi>all</hi> and every part of this my ſolemn Proteſtation and Declaration, as I do hereby under my hand, moſt ſeriouſly Aver and Avow it, ſo in further <hi>Confirmation</hi> of the Truth thereof, I do reſolve (with Gods help and permiſſion) on the next Lords day, being that Holy Feaſt of <hi>Eaſter,</hi> thereupon to receive in my Pariſh-Church the <hi>Holy Sacrament</hi> according to the Rites of the Church of <hi>England</hi> (which as I can never enough, Bleſs and Magnify the Lord for bringing me into, ſo by his Grace I ſhall never in the leaſt <hi>depart from.</hi>) And I do moreover declare, That as I had not when I made the before-cited <hi>Af<g ref="char:EOLhyphen"/>fidavit</hi> any <hi>Malice</hi> or <hi>Ill Will</hi> againſt Mr. <hi>L'Eſtrange</hi>'s Perſon, ſo likewiſe I do heartily <hi>forgive</hi> him all <hi>thoſe Slanders</hi> wherewith he has endeavour'd to Brand me, and particularly for calling me very lately <hi>Raskal</hi> in Print: And ſhall implore the Divine Majeſty both to bring that <hi>Gentle<g ref="char:EOLhyphen"/>man</hi> to a due Senſe of, and Repentance for <hi>all his Tranſgreſsions</hi> in that kind towards <hi>Me</hi> and <hi>Others,</hi> and to pardon the ſame; That as (if it ſhall ſo happen) we meet at our Bleſſed Lords <hi>Table on Earth,</hi> ſo we may together enjoy an endleſs <hi>Repaſt</hi> in Heaven.</p>
+            <p>
+               <hi>In Teſtimony of all which, from the deepeſt ſenſe of my Soul, I have here ſub<g ref="char:EOLhyphen"/>ſcribed my hand, Dated the</hi> 14th <hi>of</hi> April, <hi>being the Annual Commemoration of our Bleſſed Lord (the Holy Jeſus) his</hi> Crucifixion <hi>for the ſins of Mankind, and thence diſervedly called</hi> Good Friday, 1682.</p>
+            <closer>
+               <signed>MILES PRANCE.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>R. Janeway</hi> 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
